@@ -1,0 +1,888 @@
+Parameters:
+N = 100
+ITER = 1000
+t = 2.0
+a = 1.2
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Iteration № 1
+Test № 1 - E = 0.1
+Time of work:634
+Results
+Approximate solution: {13, 19, 5, 6, 3, 10, 2, 14, 9, 7, 11, 17, 0, 4, 8, 16, 18, 1, 12, 15}
+Value of target function: 116.0
+Coincidence with optimality solution: 61.206896551724135%
+-----------------------------------------------------------------------
+
+Test № 2 - E = 0.2
+Time of work:319
+Results
+Approximate solution: {17, 19, 10, 13, 0, 2, 6, 4, 5, 16, 18, 15, 8, 12, 1, 14, 11, 3, 9, 7}
+Value of target function: 115.0
+Coincidence with optimality solution: 61.73913043478261%
+-----------------------------------------------------------------------
+
+Test № 3 - E = 0.3
+Time of work:278
+Results
+Approximate solution: {8, 17, 1, 14, 12, 11, 9, 7, 3, 10, 6, 15, 5, 2, 4, 19, 13, 18, 16, 0}
+Value of target function: 114.0
+Coincidence with optimality solution: 62.280701754385966%
+-----------------------------------------------------------------------
+
+Test № 4 - E = 0.4
+Time of work:239
+Results
+Approximate solution: {1, 5, 9, 3, 10, 7, 4, 19, 14, 12, 15, 13, 11, 17, 16, 0, 8, 18, 6, 2}
+Value of target function: 112.0
+Coincidence with optimality solution: 63.392857142857146%
+-----------------------------------------------------------------------
+
+Test № 5 - E = 0.5
+Time of work:294
+Results
+Approximate solution: {14, 12, 1, 13, 10, 6, 16, 9, 2, 5, 11, 3, 18, 15, 0, 7, 17, 4, 19, 8}
+Value of target function: 117.0
+Coincidence with optimality solution: 60.68376068376068%
+-----------------------------------------------------------------------
+
+Test № 6 - E = 0.6
+Time of work:335
+Results
+Approximate solution: {8, 18, 5, 7, 3, 17, 13, 10, 16, 2, 14, 11, 12, 15, 6, 1, 0, 4, 19, 9}
+Value of target function: 113.0
+Coincidence with optimality solution: 62.83185840707964%
+-----------------------------------------------------------------------
+
+Test № 7 - E = 0.7
+Time of work:241
+Results
+Approximate solution: {5, 10, 7, 3, 17, 11, 16, 9, 6, 19, 8, 15, 13, 0, 1, 14, 12, 2, 4, 18}
+Value of target function: 111.0
+Coincidence with optimality solution: 63.96396396396396%
+-----------------------------------------------------------------------
+
+Test № 8 - E = 0.8
+Time of work:313
+Results
+Approximate solution: {16, 0, 4, 6, 3, 5, 7, 17, 13, 2, 15, 19, 14, 11, 8, 18, 12, 9, 10, 1}
+Value of target function: 109.0
+Coincidence with optimality solution: 65.13761467889908%
+-----------------------------------------------------------------------
+
+Test № 9 - E = 0.9
+Time of work:295
+Results
+Approximate solution: {16, 11, 8, 18, 14, 1, 5, 9, 6, 2, 0, 4, 7, 3, 19, 12, 15, 13, 10, 17}
+Value of target function: 112.0
+Coincidence with optimality solution: 63.392857142857146%
+-----------------------------------------------------------------------
+
+Test № 10 - E = 0.99
+Time of work:419
+Results
+Approximate solution: {7, 13, 19, 14, 1, 18, 6, 17, 11, 12, 3, 10, 2, 9, 16, 4, 0, 8, 5, 15}
+Value of target function: 110.0
+Coincidence with optimality solution: 64.54545454545455%
+-----------------------------------------------------------------------
+
+************************************************************************************************
+
+Iteration № 2
+Test № 1 - E = 0.1
+Time of work:128
+Results
+Approximate solution: {1, 16, 15, 19, 9, 13, 8, 14, 18, 6, 3, 10, 2, 12, 17, 5, 0, 4, 7, 11}
+Value of target function: 114.0
+Coincidence with optimality solution: 62.280701754385966%
+-----------------------------------------------------------------------
+
+Test № 2 - E = 0.2
+Time of work:180
+Results
+Approximate solution: {3, 10, 2, 4, 5, 9, 13, 18, 0, 12, 1, 17, 19, 8, 14, 16, 11, 7, 15, 6}
+Value of target function: 117.0
+Coincidence with optimality solution: 60.68376068376068%
+-----------------------------------------------------------------------
+
+Test № 3 - E = 0.3
+Time of work:190
+Results
+Approximate solution: {9, 4, 6, 19, 8, 14, 16, 0, 5, 10, 7, 3, 13, 11, 12, 15, 18, 1, 17, 2}
+Value of target function: 113.0
+Coincidence with optimality solution: 62.83185840707964%
+-----------------------------------------------------------------------
+
+Test № 4 - E = 0.4
+Time of work:299
+Results
+Approximate solution: {4, 8, 18, 9, 7, 3, 17, 14, 12, 1, 2, 0, 5, 6, 10, 15, 16, 11, 13, 19}
+Value of target function: 111.0
+Coincidence with optimality solution: 63.96396396396396%
+-----------------------------------------------------------------------
+
+Test № 5 - E = 0.5
+Time of work:248
+Results
+Approximate solution: {3, 13, 9, 11, 12, 5, 10, 2, 18, 6, 19, 8, 15, 17, 1, 14, 16, 0, 4, 7}
+Value of target function: 112.0
+Coincidence with optimality solution: 63.392857142857146%
+-----------------------------------------------------------------------
+
+Test № 6 - E = 0.6
+Time of work:278
+Results
+Approximate solution: {7, 12, 14, 18, 6, 17, 10, 1, 13, 0, 2, 9, 16, 11, 8, 15, 5, 19, 3, 4}
+Value of target function: 114.0
+Coincidence with optimality solution: 62.280701754385966%
+-----------------------------------------------------------------------
+
+Test № 7 - E = 0.7
+Time of work:270
+Results
+Approximate solution: {4, 7, 3, 17, 11, 1, 18, 16, 15, 6, 2, 0, 8, 14, 10, 5, 12, 9, 13, 19}
+Value of target function: 104.0
+Coincidence with optimality solution: 68.26923076923077%
+-----------------------------------------------------------------------
+
+Test № 8 - E = 0.8
+Time of work:329
+Results
+Approximate solution: {5, 13, 0, 4, 2, 7, 12, 15, 19, 8, 3, 9, 11, 17, 6, 10, 1, 14, 18, 16}
+Value of target function: 109.0
+Coincidence with optimality solution: 65.13761467889908%
+-----------------------------------------------------------------------
+
+Test № 9 - E = 0.9
+Time of work:315
+Results
+Approximate solution: {8, 12, 14, 18, 5, 6, 2, 13, 19, 15, 10, 1, 0, 4, 16, 3, 17, 7, 11, 9}
+Value of target function: 115.0
+Coincidence with optimality solution: 61.73913043478261%
+-----------------------------------------------------------------------
+
+Test № 10 - E = 0.99
+Time of work:342
+Results
+Approximate solution: {4, 13, 0, 9, 11, 8, 5, 14, 12, 18, 16, 1, 6, 2, 7, 3, 17, 10, 15, 19}
+Value of target function: 107.0
+Coincidence with optimality solution: 66.35514018691589%
+-----------------------------------------------------------------------
+
+************************************************************************************************
+
+Iteration № 3
+Test № 1 - E = 0.1
+Time of work:179
+Results
+Approximate solution: {4, 7, 3, 10, 2, 15, 19, 14, 12, 9, 11, 16, 0, 5, 8, 18, 17, 6, 1, 13}
+Value of target function: 120.0
+Coincidence with optimality solution: 59.166666666666664%
+-----------------------------------------------------------------------
+
+Test № 2 - E = 0.2
+Time of work:177
+Results
+Approximate solution: {14, 12, 0, 4, 18, 5, 9, 13, 11, 8, 15, 19, 7, 1, 6, 17, 16, 3, 10, 2}
+Value of target function: 108.0
+Coincidence with optimality solution: 65.74074074074075%
+-----------------------------------------------------------------------
+
+Test № 3 - E = 0.3
+Time of work:215
+Results
+Approximate solution: {6, 10, 14, 2, 4, 19, 8, 18, 15, 7, 3, 17, 13, 11, 12, 0, 1, 5, 16, 9}
+Value of target function: 111.0
+Coincidence with optimality solution: 63.96396396396396%
+-----------------------------------------------------------------------
+
+Test № 4 - E = 0.4
+Time of work:216
+Results
+Approximate solution: {1, 5, 14, 16, 18, 8, 13, 11, 12, 15, 19, 9, 7, 6, 2, 0, 4, 17, 10, 3}
+Value of target function: 109.0
+Coincidence with optimality solution: 65.13761467889908%
+-----------------------------------------------------------------------
+
+Test № 5 - E = 0.5
+Time of work:242
+Results
+Approximate solution: {10, 16, 3, 5, 7, 13, 0, 4, 19, 1, 12, 15, 17, 6, 2, 9, 11, 8, 18, 14}
+Value of target function: 114.0
+Coincidence with optimality solution: 62.280701754385966%
+-----------------------------------------------------------------------
+
+Test № 6 - E = 0.6
+Time of work:231
+Results
+Approximate solution: {5, 9, 13, 0, 12, 17, 4, 7, 6, 2, 18, 11, 8, 14, 16, 1, 19, 15, 10, 3}
+Value of target function: 113.0
+Coincidence with optimality solution: 62.83185840707964%
+-----------------------------------------------------------------------
+
+Test № 7 - E = 0.7
+Time of work:275
+Results
+Approximate solution: {7, 13, 19, 0, 4, 2, 6, 17, 10, 3, 9, 8, 14, 11, 18, 5, 12, 15, 16, 1}
+Value of target function: 113.0
+Coincidence with optimality solution: 62.83185840707964%
+-----------------------------------------------------------------------
+
+Test № 8 - E = 0.8
+Time of work:318
+Results
+Approximate solution: {12, 15, 19, 7, 0, 4, 9, 3, 17, 11, 8, 14, 18, 5, 6, 16, 2, 10, 13, 1}
+Value of target function: 107.0
+Coincidence with optimality solution: 66.35514018691589%
+-----------------------------------------------------------------------
+
+Test № 9 - E = 0.9
+Time of work:324
+Results
+Approximate solution: {4, 0, 1, 14, 18, 6, 17, 10, 13, 19, 5, 2, 9, 11, 12, 15, 8, 16, 7, 3}
+Value of target function: 114.0
+Coincidence with optimality solution: 62.280701754385966%
+-----------------------------------------------------------------------
+
+Test № 10 - E = 0.99
+Time of work:355
+Results
+Approximate solution: {17, 11, 0, 2, 6, 3, 10, 15, 19, 9, 1, 5, 14, 12, 13, 18, 16, 4, 7, 8}
+Value of target function: 112.0
+Coincidence with optimality solution: 63.392857142857146%
+-----------------------------------------------------------------------
+
+************************************************************************************************
+
+Iteration № 4
+Test № 1 - E = 0.1
+Time of work:171
+Results
+Approximate solution: {12, 3, 10, 13, 0, 2, 6, 11, 9, 7, 18, 15, 17, 1, 16, 5, 4, 19, 14, 8}
+Value of target function: 122.0
+Coincidence with optimality solution: 58.19672131147541%
+-----------------------------------------------------------------------
+
+Test № 2 - E = 0.2
+Time of work:197
+Results
+Approximate solution: {4, 2, 12, 15, 18, 6, 10, 7, 3, 17, 16, 9, 14, 11, 8, 1, 5, 13, 19, 0}
+Value of target function: 118.0
+Coincidence with optimality solution: 60.16949152542373%
+-----------------------------------------------------------------------
+
+Test № 3 - E = 0.3
+Time of work:213
+Results
+Approximate solution: {14, 16, 6, 17, 7, 3, 10, 2, 13, 18, 1, 5, 11, 9, 4, 12, 15, 19, 0, 8}
+Value of target function: 101.0
+Coincidence with optimality solution: 70.29702970297029%
+-----------------------------------------------------------------------
+
+Test № 4 - E = 0.4
+Time of work:232
+Results
+Approximate solution: {10, 2, 15, 13, 18, 6, 16, 11, 9, 8, 5, 0, 4, 19, 7, 14, 1, 12, 3, 17}
+Value of target function: 106.0
+Coincidence with optimality solution: 66.98113207547169%
+-----------------------------------------------------------------------
+
+Test № 5 - E = 0.5
+Time of work:286
+Results
+Approximate solution: {4, 9, 13, 0, 12, 15, 19, 3, 17, 11, 5, 8, 14, 16, 2, 18, 1, 6, 10, 7}
+Value of target function: 109.0
+Coincidence with optimality solution: 65.13761467889908%
+-----------------------------------------------------------------------
+
+Test № 6 - E = 0.6
+Time of work:253
+Results
+Approximate solution: {8, 14, 12, 17, 1, 2, 9, 7, 16, 18, 0, 4, 6, 19, 3, 5, 10, 13, 11, 15}
+Value of target function: 116.0
+Coincidence with optimality solution: 61.206896551724135%
+-----------------------------------------------------------------------
+
+Test № 7 - E = 0.7
+Time of work:283
+Results
+Approximate solution: {16, 11, 8, 14, 1, 5, 18, 12, 9, 7, 6, 17, 19, 15, 0, 13, 2, 4, 3, 10}
+Value of target function: 114.0
+Coincidence with optimality solution: 62.280701754385966%
+-----------------------------------------------------------------------
+
+Test № 8 - E = 0.8
+Time of work:300
+Results
+Approximate solution: {13, 0, 1, 11, 9, 6, 15, 7, 3, 17, 10, 2, 4, 16, 12, 18, 5, 8, 14, 19}
+Value of target function: 114.0
+Coincidence with optimality solution: 62.280701754385966%
+-----------------------------------------------------------------------
+
+Test № 9 - E = 0.9
+Time of work:326
+Results
+Approximate solution: {11, 9, 10, 2, 1, 16, 12, 15, 18, 0, 4, 8, 5, 6, 17, 7, 3, 13, 19, 14}
+Value of target function: 111.0
+Coincidence with optimality solution: 63.96396396396396%
+-----------------------------------------------------------------------
+
+Test № 10 - E = 0.99
+Time of work:333
+Results
+Approximate solution: {16, 0, 6, 2, 15, 10, 1, 17, 4, 5, 9, 7, 3, 13, 19, 14, 18, 12, 11, 8}
+Value of target function: 111.0
+Coincidence with optimality solution: 63.96396396396396%
+-----------------------------------------------------------------------
+
+************************************************************************************************
+
+Iteration № 5
+Test № 1 - E = 0.1
+Time of work:191
+Results
+Approximate solution: {12, 16, 18, 2, 11, 0, 1, 5, 8, 15, 7, 6, 17, 10, 3, 4, 13, 19, 9, 14}
+Value of target function: 119.0
+Coincidence with optimality solution: 59.66386554621849%
+-----------------------------------------------------------------------
+
+Test № 2 - E = 0.2
+Time of work:223
+Results
+Approximate solution: {5, 10, 14, 11, 3, 19, 12, 15, 17, 4, 7, 8, 1, 16, 18, 6, 2, 9, 13, 0}
+Value of target function: 114.0
+Coincidence with optimality solution: 62.280701754385966%
+-----------------------------------------------------------------------
+
+Test № 3 - E = 0.3
+Time of work:228
+Results
+Approximate solution: {0, 12, 15, 8, 14, 3, 9, 13, 19, 4, 7, 17, 18, 16, 5, 10, 6, 2, 11, 1}
+Value of target function: 108.0
+Coincidence with optimality solution: 65.74074074074075%
+-----------------------------------------------------------------------
+
+Test № 4 - E = 0.4
+Time of work:261
+Results
+Approximate solution: {3, 1, 18, 15, 17, 19, 4, 6, 10, 2, 13, 0, 8, 14, 16, 9, 5, 7, 11, 12}
+Value of target function: 106.0
+Coincidence with optimality solution: 66.98113207547169%
+-----------------------------------------------------------------------
+
+Test № 5 - E = 0.5
+Time of work:249
+Results
+Approximate solution: {1, 12, 3, 10, 16, 18, 15, 0, 2, 13, 4, 5, 8, 14, 11, 9, 6, 17, 19, 7}
+Value of target function: 115.0
+Coincidence with optimality solution: 61.73913043478261%
+-----------------------------------------------------------------------
+
+Test № 6 - E = 0.6
+Time of work:264
+Results
+Approximate solution: {2, 0, 12, 15, 10, 6, 17, 19, 7, 11, 3, 4, 9, 8, 14, 16, 1, 13, 18, 5}
+Value of target function: 115.0
+Coincidence with optimality solution: 61.73913043478261%
+-----------------------------------------------------------------------
+
+Test № 7 - E = 0.7
+Time of work:297
+Results
+Approximate solution: {15, 9, 5, 4, 19, 7, 11, 17, 6, 10, 2, 3, 13, 12, 0, 8, 14, 1, 18, 16}
+Value of target function: 114.0
+Coincidence with optimality solution: 62.280701754385966%
+-----------------------------------------------------------------------
+
+Test № 8 - E = 0.8
+Time of work:278
+Results
+Approximate solution: {11, 8, 14, 15, 9, 13, 0, 12, 17, 6, 2, 4, 19, 3, 10, 16, 18, 7, 1, 5}
+Value of target function: 112.0
+Coincidence with optimality solution: 63.392857142857146%
+-----------------------------------------------------------------------
+
+Test № 9 - E = 0.9
+Time of work:281
+Results
+Approximate solution: {9, 7, 3, 13, 0, 6, 2, 11, 12, 17, 4, 19, 8, 10, 15, 18, 16, 1, 5, 14}
+Value of target function: 108.0
+Coincidence with optimality solution: 65.74074074074075%
+-----------------------------------------------------------------------
+
+Test № 10 - E = 0.99
+Time of work:298
+Results
+Approximate solution: {11, 12, 15, 10, 1, 16, 18, 5, 9, 3, 0, 6, 17, 2, 13, 4, 7, 19, 8, 14}
+Value of target function: 113.0
+Coincidence with optimality solution: 62.83185840707964%
+-----------------------------------------------------------------------
+
+************************************************************************************************
+
+Iteration № 6
+Test № 1 - E = 0.1
+Time of work:169
+Results
+Approximate solution: {3, 17, 4, 6, 2, 10, 9, 5, 15, 13, 16, 19, 8, 14, 11, 0, 1, 18, 12, 7}
+Value of target function: 120.0
+Coincidence with optimality solution: 59.166666666666664%
+-----------------------------------------------------------------------
+
+Test № 2 - E = 0.2
+Time of work:177
+Results
+Approximate solution: {19, 8, 0, 14, 11, 7, 4, 5, 9, 10, 6, 2, 3, 17, 18, 12, 15, 16, 1, 13}
+Value of target function: 115.0
+Coincidence with optimality solution: 61.73913043478261%
+-----------------------------------------------------------------------
+
+Test № 3 - E = 0.3
+Time of work:181
+Results
+Approximate solution: {19, 13, 0, 12, 11, 3, 10, 17, 14, 16, 18, 1, 2, 6, 4, 9, 5, 7, 8, 15}
+Value of target function: 115.0
+Coincidence with optimality solution: 61.73913043478261%
+-----------------------------------------------------------------------
+
+Test № 4 - E = 0.4
+Time of work:229
+Results
+Approximate solution: {12, 15, 19, 1, 17, 11, 7, 13, 9, 8, 14, 16, 2, 0, 5, 3, 4, 6, 10, 18}
+Value of target function: 116.0
+Coincidence with optimality solution: 61.206896551724135%
+-----------------------------------------------------------------------
+
+Test № 5 - E = 0.5
+Time of work:269
+Results
+Approximate solution: {5, 7, 13, 0, 2, 6, 17, 4, 19, 15, 14, 12, 11, 16, 9, 8, 3, 10, 1, 18}
+Value of target function: 109.0
+Coincidence with optimality solution: 65.13761467889908%
+-----------------------------------------------------------------------
+
+Test № 6 - E = 0.6
+Time of work:282
+Results
+Approximate solution: {8, 14, 16, 2, 18, 12, 15, 13, 19, 7, 11, 9, 0, 5, 6, 10, 3, 4, 17, 1}
+Value of target function: 111.0
+Coincidence with optimality solution: 63.96396396396396%
+-----------------------------------------------------------------------
+
+Test № 7 - E = 0.7
+Time of work:267
+Results
+Approximate solution: {13, 0, 2, 9, 8, 18, 5, 14, 16, 19, 1, 11, 7, 3, 12, 17, 4, 6, 10, 15}
+Value of target function: 111.0
+Coincidence with optimality solution: 63.96396396396396%
+-----------------------------------------------------------------------
+
+Test № 8 - E = 0.8
+Time of work:296
+Results
+Approximate solution: {16, 11, 1, 18, 12, 17, 10, 13, 19, 15, 6, 2, 9, 4, 7, 3, 0, 5, 8, 14}
+Value of target function: 103.0
+Coincidence with optimality solution: 68.93203883495146%
+-----------------------------------------------------------------------
+
+Test № 9 - E = 0.9
+Time of work:309
+Results
+Approximate solution: {12, 17, 15, 6, 2, 7, 4, 19, 13, 0, 5, 10, 3, 9, 11, 16, 18, 14, 8, 1}
+Value of target function: 116.0
+Coincidence with optimality solution: 61.206896551724135%
+-----------------------------------------------------------------------
+
+Test № 10 - E = 0.99
+Time of work:326
+Results
+Approximate solution: {17, 18, 16, 0, 5, 3, 13, 11, 9, 10, 7, 1, 6, 4, 2, 15, 19, 8, 14, 12}
+Value of target function: 107.0
+Coincidence with optimality solution: 66.35514018691589%
+-----------------------------------------------------------------------
+
+************************************************************************************************
+
+Iteration № 7
+Test № 1 - E = 0.1
+Time of work:169
+Results
+Approximate solution: {8, 14, 15, 13, 16, 2, 6, 4, 5, 19, 3, 10, 7, 0, 12, 17, 18, 1, 11, 9}
+Value of target function: 120.0
+Coincidence with optimality solution: 59.166666666666664%
+-----------------------------------------------------------------------
+
+Test № 2 - E = 0.2
+Time of work:174
+Results
+Approximate solution: {11, 13, 0, 5, 9, 14, 18, 16, 15, 8, 19, 6, 17, 4, 1, 12, 3, 10, 2, 7}
+Value of target function: 118.0
+Coincidence with optimality solution: 60.16949152542373%
+-----------------------------------------------------------------------
+
+Test № 3 - E = 0.3
+Time of work:201
+Results
+Approximate solution: {9, 10, 1, 5, 6, 2, 15, 8, 18, 12, 4, 7, 13, 0, 14, 19, 17, 11, 16, 3}
+Value of target function: 115.0
+Coincidence with optimality solution: 61.73913043478261%
+-----------------------------------------------------------------------
+
+Test № 4 - E = 0.4
+Time of work:201
+Results
+Approximate solution: {10, 3, 4, 7, 13, 0, 1, 12, 14, 11, 17, 19, 15, 8, 18, 2, 5, 9, 16, 6}
+Value of target function: 113.0
+Coincidence with optimality solution: 62.83185840707964%
+-----------------------------------------------------------------------
+
+Test № 5 - E = 0.5
+Time of work:214
+Results
+Approximate solution: {6, 10, 2, 15, 18, 16, 11, 3, 4, 8, 13, 0, 7, 14, 12, 17, 1, 5, 19, 9}
+Value of target function: 107.0
+Coincidence with optimality solution: 66.35514018691589%
+-----------------------------------------------------------------------
+
+Test № 6 - E = 0.6
+Time of work:241
+Results
+Approximate solution: {11, 8, 18, 5, 6, 3, 4, 2, 10, 1, 12, 15, 17, 7, 13, 0, 14, 16, 19, 9}
+Value of target function: 106.0
+Coincidence with optimality solution: 66.98113207547169%
+-----------------------------------------------------------------------
+
+Test № 7 - E = 0.7
+Time of work:280
+Results
+Approximate solution: {15, 19, 14, 12, 10, 3, 17, 2, 13, 0, 4, 7, 1, 18, 5, 8, 11, 9, 6, 16}
+Value of target function: 109.0
+Coincidence with optimality solution: 65.13761467889908%
+-----------------------------------------------------------------------
+
+Test № 8 - E = 0.8
+Time of work:305
+Results
+Approximate solution: {12, 15, 19, 14, 11, 17, 7, 0, 8, 18, 5, 6, 4, 9, 2, 13, 3, 10, 1, 16}
+Value of target function: 113.0
+Coincidence with optimality solution: 62.83185840707964%
+-----------------------------------------------------------------------
+
+Test № 9 - E = 0.9
+Time of work:302
+Results
+Approximate solution: {8, 13, 0, 2, 15, 10, 6, 3, 4, 17, 1, 18, 5, 19, 9, 7, 14, 16, 11, 12}
+Value of target function: 113.0
+Coincidence with optimality solution: 62.83185840707964%
+-----------------------------------------------------------------------
+
+Test № 10 - E = 0.99
+Time of work:361
+Results
+Approximate solution: {2, 4, 19, 9, 12, 5, 14, 15, 7, 3, 18, 16, 11, 8, 6, 17, 10, 13, 0, 1}
+Value of target function: 111.0
+Coincidence with optimality solution: 63.96396396396396%
+-----------------------------------------------------------------------
+
+************************************************************************************************
+
+Iteration № 8
+Test № 1 - E = 0.1
+Time of work:194
+Results
+Approximate solution: {10, 1, 18, 12, 17, 2, 4, 15, 19, 7, 11, 14, 16, 5, 9, 8, 13, 0, 6, 3}
+Value of target function: 110.0
+Coincidence with optimality solution: 64.54545454545455%
+-----------------------------------------------------------------------
+
+Test № 2 - E = 0.2
+Time of work:205
+Results
+Approximate solution: {19, 8, 18, 5, 10, 2, 9, 16, 0, 13, 11, 3, 15, 14, 12, 17, 6, 4, 7, 1}
+Value of target function: 115.0
+Coincidence with optimality solution: 61.73913043478261%
+-----------------------------------------------------------------------
+
+Test № 3 - E = 0.3
+Time of work:225
+Results
+Approximate solution: {1, 16, 18, 2, 12, 13, 11, 9, 8, 14, 0, 5, 10, 7, 3, 15, 19, 4, 6, 17}
+Value of target function: 116.0
+Coincidence with optimality solution: 61.206896551724135%
+-----------------------------------------------------------------------
+
+Test № 4 - E = 0.4
+Time of work:188
+Results
+Approximate solution: {1, 10, 19, 8, 12, 16, 18, 5, 6, 2, 13, 0, 4, 9, 7, 14, 11, 3, 15, 17}
+Value of target function: 116.0
+Coincidence with optimality solution: 61.206896551724135%
+-----------------------------------------------------------------------
+
+Test № 5 - E = 0.5
+Time of work:215
+Results
+Approximate solution: {6, 3, 5, 2, 7, 17, 1, 14, 15, 19, 8, 10, 18, 16, 13, 11, 12, 9, 0, 4}
+Value of target function: 117.0
+Coincidence with optimality solution: 60.68376068376068%
+-----------------------------------------------------------------------
+
+Test № 6 - E = 0.6
+Time of work:272
+Results
+Approximate solution: {0, 4, 19, 7, 6, 17, 11, 3, 9, 2, 15, 8, 14, 16, 5, 10, 18, 12, 13, 1}
+Value of target function: 111.0
+Coincidence with optimality solution: 63.96396396396396%
+-----------------------------------------------------------------------
+
+Test № 7 - E = 0.7
+Time of work:277
+Results
+Approximate solution: {15, 8, 14, 16, 18, 5, 0, 12, 9, 2, 6, 4, 7, 17, 1, 10, 3, 19, 13, 11}
+Value of target function: 114.0
+Coincidence with optimality solution: 62.280701754385966%
+-----------------------------------------------------------------------
+
+Test № 8 - E = 0.8
+Time of work:293
+Results
+Approximate solution: {13, 18, 8, 5, 3, 10, 14, 12, 15, 6, 17, 1, 16, 2, 7, 0, 4, 19, 9, 11}
+Value of target function: 110.0
+Coincidence with optimality solution: 64.54545454545455%
+-----------------------------------------------------------------------
+
+Test № 9 - E = 0.9
+Time of work:299
+Results
+Approximate solution: {12, 15, 19, 7, 11, 3, 17, 10, 1, 9, 4, 0, 8, 13, 18, 16, 2, 5, 6, 14}
+Value of target function: 110.0
+Coincidence with optimality solution: 64.54545454545455%
+-----------------------------------------------------------------------
+
+Test № 10 - E = 0.99
+Time of work:350
+Results
+Approximate solution: {15, 7, 11, 9, 2, 13, 19, 0, 8, 18, 16, 4, 3, 17, 1, 14, 12, 5, 6, 10}
+Value of target function: 116.0
+Coincidence with optimality solution: 61.206896551724135%
+-----------------------------------------------------------------------
+
+************************************************************************************************
+
+Iteration № 9
+Test № 1 - E = 0.1
+Time of work:187
+Results
+Approximate solution: {1, 5, 19, 9, 18, 16, 0, 8, 12, 15, 10, 3, 14, 2, 6, 17, 4, 7, 13, 11}
+Value of target function: 111.0
+Coincidence with optimality solution: 63.96396396396396%
+-----------------------------------------------------------------------
+
+Test № 2 - E = 0.2
+Time of work:194
+Results
+Approximate solution: {16, 6, 17, 0, 7, 12, 11, 3, 10, 1, 5, 9, 4, 15, 19, 8, 14, 2, 13, 18}
+Value of target function: 116.0
+Coincidence with optimality solution: 61.206896551724135%
+-----------------------------------------------------------------------
+
+Test № 3 - E = 0.3
+Time of work:230
+Results
+Approximate solution: {19, 0, 4, 7, 11, 10, 1, 17, 2, 6, 3, 9, 5, 8, 14, 12, 16, 18, 15, 13}
+Value of target function: 112.0
+Coincidence with optimality solution: 63.392857142857146%
+-----------------------------------------------------------------------
+
+Test № 4 - E = 0.4
+Time of work:227
+Results
+Approximate solution: {11, 5, 6, 10, 4, 17, 3, 7, 13, 0, 1, 18, 16, 2, 9, 8, 14, 12, 15, 19}
+Value of target function: 116.0
+Coincidence with optimality solution: 61.206896551724135%
+-----------------------------------------------------------------------
+
+Test № 5 - E = 0.5
+Time of work:263
+Results
+Approximate solution: {19, 15, 13, 1, 5, 10, 6, 17, 7, 14, 16, 0, 4, 2, 18, 12, 9, 11, 8, 3}
+Value of target function: 118.0
+Coincidence with optimality solution: 60.16949152542373%
+-----------------------------------------------------------------------
+
+Test № 6 - E = 0.6
+Time of work:258
+Results
+Approximate solution: {6, 10, 2, 9, 7, 0, 13, 19, 8, 18, 14, 11, 3, 1, 12, 15, 17, 4, 16, 5}
+Value of target function: 116.0
+Coincidence with optimality solution: 61.206896551724135%
+-----------------------------------------------------------------------
+
+Test № 7 - E = 0.7
+Time of work:266
+Results
+Approximate solution: {19, 8, 18, 16, 5, 9, 6, 2, 17, 4, 7, 3, 10, 1, 12, 11, 13, 14, 15, 0}
+Value of target function: 114.0
+Coincidence with optimality solution: 62.280701754385966%
+-----------------------------------------------------------------------
+
+Test № 8 - E = 0.8
+Time of work:311
+Results
+Approximate solution: {10, 2, 1, 14, 9, 5, 0, 8, 6, 16, 11, 12, 17, 4, 7, 18, 15, 13, 19, 3}
+Value of target function: 112.0
+Coincidence with optimality solution: 63.392857142857146%
+-----------------------------------------------------------------------
+
+Test № 9 - E = 0.9
+Time of work:307
+Results
+Approximate solution: {0, 10, 2, 6, 17, 18, 1, 5, 9, 11, 16, 4, 19, 8, 7, 3, 14, 12, 15, 13}
+Value of target function: 106.0
+Coincidence with optimality solution: 66.98113207547169%
+-----------------------------------------------------------------------
+
+Test № 10 - E = 0.99
+Time of work:331
+Results
+Approximate solution: {14, 16, 13, 11, 3, 10, 6, 2, 5, 18, 9, 7, 12, 1, 17, 19, 0, 4, 15, 8}
+Value of target function: 114.0
+Coincidence with optimality solution: 62.280701754385966%
+-----------------------------------------------------------------------
+
+************************************************************************************************
+
+Iteration № 10
+Test № 1 - E = 0.1
+Time of work:193
+Results
+Approximate solution: {3, 10, 14, 18, 16, 11, 15, 19, 5, 9, 8, 13, 12, 1, 6, 2, 17, 0, 4, 7}
+Value of target function: 109.0
+Coincidence with optimality solution: 65.13761467889908%
+-----------------------------------------------------------------------
+
+Test № 2 - E = 0.2
+Time of work:216
+Results
+Approximate solution: {19, 3, 13, 0, 4, 7, 17, 6, 10, 1, 5, 2, 18, 14, 9, 11, 15, 8, 12, 16}
+Value of target function: 110.0
+Coincidence with optimality solution: 64.54545454545455%
+-----------------------------------------------------------------------
+
+Test № 3 - E = 0.3
+Time of work:210
+Results
+Approximate solution: {7, 17, 18, 6, 1, 13, 19, 9, 16, 12, 5, 14, 11, 15, 8, 3, 10, 2, 0, 4}
+Value of target function: 112.0
+Coincidence with optimality solution: 63.392857142857146%
+-----------------------------------------------------------------------
+
+Test № 4 - E = 0.4
+Time of work:208
+Results
+Approximate solution: {4, 6, 16, 12, 17, 18, 11, 1, 14, 8, 13, 19, 3, 15, 5, 9, 10, 2, 7, 0}
+Value of target function: 120.0
+Coincidence with optimality solution: 59.166666666666664%
+-----------------------------------------------------------------------
+
+Test № 5 - E = 0.5
+Time of work:254
+Results
+Approximate solution: {16, 9, 3, 10, 7, 12, 2, 13, 0, 4, 19, 8, 6, 17, 1, 5, 14, 15, 18, 11}
+Value of target function: 116.0
+Coincidence with optimality solution: 61.206896551724135%
+-----------------------------------------------------------------------
+
+Test № 6 - E = 0.6
+Time of work:255
+Results
+Approximate solution: {2, 4, 15, 8, 18, 16, 11, 3, 17, 1, 6, 10, 13, 12, 9, 5, 19, 7, 0, 14}
+Value of target function: 113.0
+Coincidence with optimality solution: 62.83185840707964%
+-----------------------------------------------------------------------
+
+Test № 7 - E = 0.7
+Time of work:295
+Results
+Approximate solution: {19, 14, 16, 12, 18, 5, 9, 11, 15, 8, 13, 0, 1, 17, 6, 4, 7, 3, 10, 2}
+Value of target function: 107.0
+Coincidence with optimality solution: 66.35514018691589%
+-----------------------------------------------------------------------
+
+Test № 8 - E = 0.8
+Time of work:282
+Results
+Approximate solution: {7, 13, 18, 15, 19, 8, 5, 9, 10, 1, 2, 6, 4, 3, 17, 14, 11, 12, 16, 0}
+Value of target function: 112.0
+Coincidence with optimality solution: 63.392857142857146%
+-----------------------------------------------------------------------
+
+Test № 9 - E = 0.9
+Time of work:302
+Results
+Approximate solution: {16, 11, 8, 7, 3, 10, 4, 13, 0, 14, 15, 19, 9, 12, 1, 5, 6, 2, 17, 18}
+Value of target function: 112.0
+Coincidence with optimality solution: 63.392857142857146%
+-----------------------------------------------------------------------
+
+Test № 10 - E = 0.99
+Time of work:326
+Results
+Approximate solution: {11, 12, 17, 4, 9, 7, 3, 5, 16, 1, 18, 6, 10, 2, 15, 19, 14, 0, 8, 13}
+Value of target function: 107.0
+Coincidence with optimality solution: 66.35514018691589%
+-----------------------------------------------------------------------
+
+************************************************************************************************
+
+Average results:
+E = 0.1
+	Average time: 221
+	Average result: 116.1
+	Average coincidence with optimality solution: 61.154177433247206
+
+E = 0.2
+	Average time: 206
+	Average result: 114.6
+	Average coincidence with optimality solution: 61.954624781849915
+
+E = 0.3
+	Average time: 217
+	Average result: 111.7
+	Average coincidence with optimality solution: 63.563115487914054
+
+E = 0.4
+	Average time: 230
+	Average result: 112.5
+	Average coincidence with optimality solution: 63.111111111111114
+
+E = 0.5
+	Average time: 253
+	Average result: 113.4
+	Average coincidence with optimality solution: 62.61022927689594
+
+E = 0.6
+	Average time: 266
+	Average result: 112.8
+	Average coincidence with optimality solution: 62.94326241134752
+
+E = 0.7
+	Average time: 275
+	Average result: 111.1
+	Average coincidence with optimality solution: 63.90639063906391
+
+E = 0.8
+	Average time: 302
+	Average result: 110.1
+	Average coincidence with optimality solution: 64.48683015440508
+
+E = 0.9
+	Average time: 306
+	Average result: 111.7
+	Average coincidence with optimality solution: 63.563115487914054
+
+E = 0.99
+	Average time: 344
+	Average result: 110.8
+	Average coincidence with optimality solution: 64.07942238267148
+

@@ -1,0 +1,888 @@
+Parameters:
+N = 100
+E = 0.5
+t = 2.0
+a = 1.2
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Iteration № 1
+Test № 1 - ITER = 100
+Time of work:164
+Results
+Approximate solution: {7, 3, 17, 6, 4, 0, 12, 16, 18, 8, 14, 1, 11, 15, 19, 13, 10, 2, 5, 9}
+Value of target function: 114.0
+Coincidence with optimality solution: 62.280701754385966%
+-----------------------------------------------------------------------
+
+Test № 2 - ITER = 300
+Time of work:150
+Results
+Approximate solution: {17, 1, 2, 13, 19, 9, 5, 18, 15, 14, 11, 8, 7, 3, 10, 16, 0, 6, 4, 12}
+Value of target function: 113.0
+Coincidence with optimality solution: 62.83185840707964%
+-----------------------------------------------------------------------
+
+Test № 3 - ITER = 500
+Time of work:271
+Results
+Approximate solution: {18, 6, 14, 2, 10, 3, 17, 7, 11, 15, 19, 9, 16, 1, 5, 8, 12, 13, 0, 4}
+Value of target function: 110.0
+Coincidence with optimality solution: 64.54545454545455%
+-----------------------------------------------------------------------
+
+Test № 4 - ITER = 700
+Time of work:235
+Results
+Approximate solution: {10, 3, 16, 2, 4, 7, 17, 13, 19, 0, 5, 9, 11, 15, 8, 14, 12, 1, 18, 6}
+Value of target function: 110.0
+Coincidence with optimality solution: 64.54545454545455%
+-----------------------------------------------------------------------
+
+Test № 5 - ITER = 1000
+Time of work:466
+Results
+Approximate solution: {2, 18, 14, 11, 15, 13, 19, 9, 7, 0, 8, 12, 17, 16, 4, 6, 3, 10, 1, 5}
+Value of target function: 109.0
+Coincidence with optimality solution: 65.13761467889908%
+-----------------------------------------------------------------------
+
+Test № 6 - ITER = 1500
+Time of work:391
+Results
+Approximate solution: {12, 15, 9, 7, 3, 17, 10, 2, 0, 1, 4, 13, 16, 18, 6, 19, 5, 11, 8, 14}
+Value of target function: 117.0
+Coincidence with optimality solution: 60.68376068376068%
+-----------------------------------------------------------------------
+
+Test № 7 - ITER = 2000
+Time of work:529
+Results
+Approximate solution: {12, 15, 10, 2, 9, 0, 5, 1, 11, 7, 3, 17, 4, 16, 13, 19, 8, 18, 6, 14}
+Value of target function: 114.0
+Coincidence with optimality solution: 62.280701754385966%
+-----------------------------------------------------------------------
+
+Test № 8 - ITER = 3000
+Time of work:749
+Results
+Approximate solution: {17, 0, 14, 1, 18, 16, 11, 12, 2, 6, 10, 5, 15, 9, 8, 13, 19, 3, 4, 7}
+Value of target function: 109.0
+Coincidence with optimality solution: 65.13761467889908%
+-----------------------------------------------------------------------
+
+Test № 9 - ITER = 5000
+Time of work:1211
+Results
+Approximate solution: {19, 12, 9, 10, 1, 13, 0, 4, 7, 17, 11, 18, 6, 2, 16, 3, 5, 8, 14, 15}
+Value of target function: 109.0
+Coincidence with optimality solution: 65.13761467889908%
+-----------------------------------------------------------------------
+
+Test № 10 - ITER = 10000
+Time of work:5860
+Results
+Approximate solution: {3, 4, 19, 15, 7, 11, 13, 0, 8, 14, 9, 5, 12, 18, 16, 1, 10, 2, 6, 17}
+Value of target function: 110.0
+Coincidence with optimality solution: 64.54545454545455%
+-----------------------------------------------------------------------
+
+************************************************************************************************
+
+Iteration № 2
+Test № 1 - ITER = 100
+Time of work:21
+Results
+Approximate solution: {8, 14, 0, 4, 19, 11, 9, 7, 12, 15, 16, 3, 17, 13, 2, 18, 1, 6, 10, 5}
+Value of target function: 116.0
+Coincidence with optimality solution: 61.206896551724135%
+-----------------------------------------------------------------------
+
+Test № 2 - ITER = 300
+Time of work:64
+Results
+Approximate solution: {12, 13, 18, 15, 8, 14, 4, 17, 1, 19, 7, 3, 10, 5, 11, 9, 0, 2, 6, 16}
+Value of target function: 117.0
+Coincidence with optimality solution: 60.68376068376068%
+-----------------------------------------------------------------------
+
+Test № 3 - ITER = 500
+Time of work:105
+Results
+Approximate solution: {5, 2, 4, 17, 1, 6, 10, 16, 3, 14, 12, 15, 13, 19, 8, 18, 9, 7, 11, 0}
+Value of target function: 113.0
+Coincidence with optimality solution: 62.83185840707964%
+-----------------------------------------------------------------------
+
+Test № 4 - ITER = 700
+Time of work:138
+Results
+Approximate solution: {4, 19, 8, 0, 18, 12, 17, 11, 15, 14, 1, 5, 2, 6, 10, 13, 16, 9, 7, 3}
+Value of target function: 115.0
+Coincidence with optimality solution: 61.73913043478261%
+-----------------------------------------------------------------------
+
+Test № 5 - ITER = 1000
+Time of work:317
+Results
+Approximate solution: {1, 5, 2, 0, 8, 13, 11, 18, 6, 17, 14, 16, 9, 7, 3, 4, 12, 15, 19, 10}
+Value of target function: 112.0
+Coincidence with optimality solution: 63.392857142857146%
+-----------------------------------------------------------------------
+
+Test № 6 - ITER = 1500
+Time of work:336
+Results
+Approximate solution: {10, 6, 2, 13, 11, 7, 17, 15, 19, 14, 9, 8, 12, 1, 16, 18, 5, 0, 4, 3}
+Value of target function: 112.0
+Coincidence with optimality solution: 63.392857142857146%
+-----------------------------------------------------------------------
+
+Test № 7 - ITER = 2000
+Time of work:570
+Results
+Approximate solution: {8, 14, 16, 18, 2, 7, 13, 0, 11, 1, 5, 3, 10, 6, 17, 4, 12, 15, 9, 19}
+Value of target function: 108.0
+Coincidence with optimality solution: 65.74074074074075%
+-----------------------------------------------------------------------
+
+Test № 8 - ITER = 3000
+Time of work:926
+Results
+Approximate solution: {0, 6, 4, 19, 8, 15, 10, 5, 18, 16, 11, 7, 3, 17, 14, 12, 1, 13, 2, 9}
+Value of target function: 107.0
+Coincidence with optimality solution: 66.35514018691589%
+-----------------------------------------------------------------------
+
+Test № 9 - ITER = 5000
+Time of work:1549
+Results
+Approximate solution: {11, 8, 14, 6, 10, 18, 16, 2, 9, 5, 15, 13, 0, 4, 7, 3, 17, 1, 19, 12}
+Value of target function: 109.0
+Coincidence with optimality solution: 65.13761467889908%
+-----------------------------------------------------------------------
+
+Test № 10 - ITER = 10000
+Time of work:4147
+Results
+Approximate solution: {0, 5, 1, 11, 9, 2, 15, 19, 8, 18, 12, 17, 3, 4, 7, 6, 10, 14, 16, 13}
+Value of target function: 110.0
+Coincidence with optimality solution: 64.54545454545455%
+-----------------------------------------------------------------------
+
+************************************************************************************************
+
+Iteration № 3
+Test № 1 - ITER = 100
+Time of work:20
+Results
+Approximate solution: {18, 5, 0, 2, 4, 19, 9, 13, 7, 3, 11, 8, 17, 6, 10, 1, 12, 15, 14, 16}
+Value of target function: 120.0
+Coincidence with optimality solution: 59.166666666666664%
+-----------------------------------------------------------------------
+
+Test № 2 - ITER = 300
+Time of work:55
+Results
+Approximate solution: {3, 10, 6, 17, 12, 1, 11, 8, 13, 0, 4, 5, 9, 2, 7, 14, 18, 15, 16, 19}
+Value of target function: 116.0
+Coincidence with optimality solution: 61.206896551724135%
+-----------------------------------------------------------------------
+
+Test № 3 - ITER = 500
+Time of work:128
+Results
+Approximate solution: {19, 9, 12, 1, 5, 0, 4, 18, 6, 10, 15, 17, 16, 2, 14, 11, 7, 3, 8, 13}
+Value of target function: 119.0
+Coincidence with optimality solution: 59.66386554621849%
+-----------------------------------------------------------------------
+
+Test № 4 - ITER = 700
+Time of work:243
+Results
+Approximate solution: {6, 4, 19, 11, 9, 16, 15, 7, 13, 0, 14, 2, 10, 3, 5, 8, 18, 1, 12, 17}
+Value of target function: 115.0
+Coincidence with optimality solution: 61.73913043478261%
+-----------------------------------------------------------------------
+
+Test № 5 - ITER = 1000
+Time of work:201
+Results
+Approximate solution: {3, 17, 16, 18, 10, 7, 12, 15, 8, 6, 2, 9, 5, 4, 19, 11, 1, 13, 0, 14}
+Value of target function: 115.0
+Coincidence with optimality solution: 61.73913043478261%
+-----------------------------------------------------------------------
+
+Test № 6 - ITER = 1500
+Time of work:474
+Results
+Approximate solution: {7, 13, 0, 8, 5, 9, 18, 3, 10, 6, 4, 17, 15, 19, 14, 11, 12, 1, 16, 2}
+Value of target function: 116.0
+Coincidence with optimality solution: 61.206896551724135%
+-----------------------------------------------------------------------
+
+Test № 7 - ITER = 2000
+Time of work:634
+Results
+Approximate solution: {4, 15, 19, 2, 11, 8, 14, 1, 0, 12, 13, 18, 5, 10, 6, 16, 9, 7, 3, 17}
+Value of target function: 115.0
+Coincidence with optimality solution: 61.73913043478261%
+-----------------------------------------------------------------------
+
+Test № 8 - ITER = 3000
+Time of work:670
+Results
+Approximate solution: {18, 1, 12, 17, 4, 6, 16, 5, 15, 0, 3, 10, 2, 13, 19, 9, 7, 11, 8, 14}
+Value of target function: 110.0
+Coincidence with optimality solution: 64.54545454545455%
+-----------------------------------------------------------------------
+
+Test № 9 - ITER = 5000
+Time of work:1539
+Results
+Approximate solution: {9, 16, 3, 10, 18, 12, 15, 19, 13, 0, 6, 2, 7, 4, 8, 17, 14, 11, 1, 5}
+Value of target function: 104.0
+Coincidence with optimality solution: 68.26923076923077%
+-----------------------------------------------------------------------
+
+Test № 10 - ITER = 10000
+Time of work:2364
+Results
+Approximate solution: {1, 16, 18, 15, 13, 0, 14, 9, 11, 8, 5, 2, 6, 10, 7, 3, 19, 4, 12, 17}
+Value of target function: 107.0
+Coincidence with optimality solution: 66.35514018691589%
+-----------------------------------------------------------------------
+
+************************************************************************************************
+
+Iteration № 4
+Test № 1 - ITER = 100
+Time of work:21
+Results
+Approximate solution: {6, 19, 9, 8, 3, 13, 0, 4, 5, 18, 2, 15, 16, 11, 1, 10, 14, 12, 17, 7}
+Value of target function: 120.0
+Coincidence with optimality solution: 59.166666666666664%
+-----------------------------------------------------------------------
+
+Test № 2 - ITER = 300
+Time of work:65
+Results
+Approximate solution: {1, 18, 8, 5, 10, 14, 11, 3, 6, 4, 9, 16, 12, 15, 19, 13, 0, 2, 7, 17}
+Value of target function: 113.0
+Coincidence with optimality solution: 62.83185840707964%
+-----------------------------------------------------------------------
+
+Test № 3 - ITER = 500
+Time of work:120
+Results
+Approximate solution: {14, 11, 1, 16, 3, 5, 9, 8, 13, 19, 15, 6, 4, 18, 12, 17, 10, 2, 7, 0}
+Value of target function: 113.0
+Coincidence with optimality solution: 62.83185840707964%
+-----------------------------------------------------------------------
+
+Test № 4 - ITER = 700
+Time of work:144
+Results
+Approximate solution: {14, 11, 8, 7, 12, 9, 5, 10, 2, 13, 1, 16, 3, 17, 15, 19, 18, 6, 4, 0}
+Value of target function: 118.0
+Coincidence with optimality solution: 60.16949152542373%
+-----------------------------------------------------------------------
+
+Test № 5 - ITER = 1000
+Time of work:225
+Results
+Approximate solution: {10, 7, 4, 15, 13, 0, 6, 16, 5, 19, 3, 9, 11, 8, 14, 1, 18, 12, 17, 2}
+Value of target function: 112.0
+Coincidence with optimality solution: 63.392857142857146%
+-----------------------------------------------------------------------
+
+Test № 6 - ITER = 1500
+Time of work:347
+Results
+Approximate solution: {9, 13, 3, 10, 2, 4, 7, 17, 18, 8, 5, 12, 0, 1, 6, 16, 15, 19, 14, 11}
+Value of target function: 113.0
+Coincidence with optimality solution: 62.83185840707964%
+-----------------------------------------------------------------------
+
+Test № 7 - ITER = 2000
+Time of work:449
+Results
+Approximate solution: {13, 17, 11, 12, 15, 8, 14, 16, 2, 18, 5, 19, 9, 0, 1, 10, 6, 4, 7, 3}
+Value of target function: 111.0
+Coincidence with optimality solution: 63.96396396396396%
+-----------------------------------------------------------------------
+
+Test № 8 - ITER = 3000
+Time of work:709
+Results
+Approximate solution: {1, 16, 15, 19, 4, 7, 18, 10, 8, 12, 9, 5, 3, 17, 11, 13, 0, 6, 2, 14}
+Value of target function: 112.0
+Coincidence with optimality solution: 63.392857142857146%
+-----------------------------------------------------------------------
+
+Test № 9 - ITER = 5000
+Time of work:1050
+Results
+Approximate solution: {0, 2, 14, 19, 7, 3, 10, 8, 18, 5, 6, 4, 17, 12, 15, 9, 16, 11, 1, 13}
+Value of target function: 115.0
+Coincidence with optimality solution: 61.73913043478261%
+-----------------------------------------------------------------------
+
+Test № 10 - ITER = 10000
+Time of work:2988
+Results
+Approximate solution: {0, 5, 7, 1, 6, 10, 2, 14, 16, 11, 8, 3, 17, 4, 9, 18, 12, 15, 19, 13}
+Value of target function: 105.0
+Coincidence with optimality solution: 67.61904761904762%
+-----------------------------------------------------------------------
+
+************************************************************************************************
+
+Iteration № 5
+Test № 1 - ITER = 100
+Time of work:21
+Results
+Approximate solution: {18, 15, 17, 10, 2, 6, 16, 4, 19, 7, 9, 0, 13, 1, 14, 11, 8, 12, 3, 5}
+Value of target function: 120.0
+Coincidence with optimality solution: 59.166666666666664%
+-----------------------------------------------------------------------
+
+Test № 2 - ITER = 300
+Time of work:56
+Results
+Approximate solution: {14, 8, 15, 19, 13, 11, 9, 2, 17, 12, 1, 16, 0, 4, 7, 3, 5, 18, 6, 10}
+Value of target function: 116.0
+Coincidence with optimality solution: 61.206896551724135%
+-----------------------------------------------------------------------
+
+Test № 3 - ITER = 500
+Time of work:102
+Results
+Approximate solution: {1, 2, 18, 6, 17, 10, 15, 8, 12, 16, 11, 13, 19, 0, 4, 5, 14, 9, 7, 3}
+Value of target function: 117.0
+Coincidence with optimality solution: 60.68376068376068%
+-----------------------------------------------------------------------
+
+Test № 4 - ITER = 700
+Time of work:177
+Results
+Approximate solution: {13, 18, 12, 1, 11, 15, 10, 8, 14, 16, 5, 7, 3, 0, 2, 9, 6, 17, 4, 19}
+Value of target function: 112.0
+Coincidence with optimality solution: 63.392857142857146%
+-----------------------------------------------------------------------
+
+Test № 5 - ITER = 1000
+Time of work:225
+Results
+Approximate solution: {11, 8, 14, 9, 13, 0, 6, 16, 3, 10, 1, 15, 19, 5, 4, 7, 12, 17, 2, 18}
+Value of target function: 112.0
+Coincidence with optimality solution: 63.392857142857146%
+-----------------------------------------------------------------------
+
+Test № 6 - ITER = 1500
+Time of work:312
+Results
+Approximate solution: {17, 15, 19, 7, 4, 13, 9, 5, 10, 1, 14, 8, 18, 2, 6, 16, 11, 0, 12, 3}
+Value of target function: 115.0
+Coincidence with optimality solution: 61.73913043478261%
+-----------------------------------------------------------------------
+
+Test № 7 - ITER = 2000
+Time of work:549
+Results
+Approximate solution: {13, 11, 8, 14, 2, 15, 16, 12, 0, 1, 18, 6, 4, 17, 19, 9, 5, 3, 10, 7}
+Value of target function: 114.0
+Coincidence with optimality solution: 62.280701754385966%
+-----------------------------------------------------------------------
+
+Test № 8 - ITER = 3000
+Time of work:621
+Results
+Approximate solution: {12, 17, 10, 1, 7, 5, 9, 11, 8, 14, 16, 6, 2, 13, 18, 15, 0, 4, 19, 3}
+Value of target function: 110.0
+Coincidence with optimality solution: 64.54545454545455%
+-----------------------------------------------------------------------
+
+Test № 9 - ITER = 5000
+Time of work:1207
+Results
+Approximate solution: {5, 2, 10, 13, 14, 16, 11, 1, 6, 17, 19, 8, 18, 9, 12, 15, 0, 4, 7, 3}
+Value of target function: 111.0
+Coincidence with optimality solution: 63.96396396396396%
+-----------------------------------------------------------------------
+
+Test № 10 - ITER = 10000
+Time of work:3812
+Results
+Approximate solution: {18, 12, 8, 5, 10, 6, 4, 7, 3, 17, 11, 1, 15, 19, 9, 13, 0, 14, 16, 2}
+Value of target function: 104.0
+Coincidence with optimality solution: 68.26923076923077%
+-----------------------------------------------------------------------
+
+************************************************************************************************
+
+Iteration № 6
+Test № 1 - ITER = 100
+Time of work:23
+Results
+Approximate solution: {13, 10, 3, 8, 14, 0, 5, 6, 16, 15, 18, 2, 4, 19, 9, 7, 17, 11, 12, 1}
+Value of target function: 113.0
+Coincidence with optimality solution: 62.83185840707964%
+-----------------------------------------------------------------------
+
+Test № 2 - ITER = 300
+Time of work:145
+Results
+Approximate solution: {10, 1, 2, 16, 5, 18, 12, 11, 0, 8, 14, 19, 15, 13, 4, 9, 7, 3, 17, 6}
+Value of target function: 117.0
+Coincidence with optimality solution: 60.68376068376068%
+-----------------------------------------------------------------------
+
+Test № 3 - ITER = 500
+Time of work:448
+Results
+Approximate solution: {17, 10, 2, 6, 4, 19, 1, 14, 11, 12, 15, 8, 13, 0, 7, 18, 16, 3, 5, 9}
+Value of target function: 115.0
+Coincidence with optimality solution: 61.73913043478261%
+-----------------------------------------------------------------------
+
+Test № 4 - ITER = 700
+Time of work:379
+Results
+Approximate solution: {9, 11, 13, 19, 12, 15, 8, 14, 10, 1, 0, 6, 16, 18, 5, 4, 2, 7, 3, 17}
+Value of target function: 106.0
+Coincidence with optimality solution: 66.98113207547169%
+-----------------------------------------------------------------------
+
+Test № 5 - ITER = 1000
+Time of work:226
+Results
+Approximate solution: {19, 3, 17, 14, 12, 9, 16, 18, 5, 8, 11, 15, 13, 0, 10, 1, 6, 4, 2, 7}
+Value of target function: 117.0
+Coincidence with optimality solution: 60.68376068376068%
+-----------------------------------------------------------------------
+
+Test № 6 - ITER = 1500
+Time of work:387
+Results
+Approximate solution: {2, 0, 12, 9, 5, 11, 8, 14, 1, 18, 16, 15, 19, 7, 3, 6, 10, 13, 17, 4}
+Value of target function: 111.0
+Coincidence with optimality solution: 63.96396396396396%
+-----------------------------------------------------------------------
+
+Test № 7 - ITER = 2000
+Time of work:874
+Results
+Approximate solution: {14, 9, 13, 0, 5, 16, 19, 2, 18, 6, 10, 1, 17, 4, 7, 3, 12, 15, 11, 8}
+Value of target function: 113.0
+Coincidence with optimality solution: 62.83185840707964%
+-----------------------------------------------------------------------
+
+Test № 8 - ITER = 3000
+Time of work:943
+Results
+Approximate solution: {0, 9, 16, 15, 17, 4, 7, 11, 13, 19, 8, 14, 12, 3, 10, 5, 1, 18, 6, 2}
+Value of target function: 105.0
+Coincidence with optimality solution: 67.61904761904762%
+-----------------------------------------------------------------------
+
+Test № 9 - ITER = 5000
+Time of work:1920
+Results
+Approximate solution: {1, 12, 15, 16, 18, 6, 5, 10, 2, 0, 8, 14, 3, 17, 4, 7, 11, 13, 19, 9}
+Value of target function: 106.0
+Coincidence with optimality solution: 66.98113207547169%
+-----------------------------------------------------------------------
+
+Test № 10 - ITER = 10000
+Time of work:4661
+Results
+Approximate solution: {19, 3, 10, 2, 6, 17, 13, 0, 9, 8, 14, 18, 1, 5, 4, 16, 11, 7, 12, 15}
+Value of target function: 109.0
+Coincidence with optimality solution: 65.13761467889908%
+-----------------------------------------------------------------------
+
+************************************************************************************************
+
+Iteration № 7
+Test № 1 - ITER = 100
+Time of work:22
+Results
+Approximate solution: {17, 4, 0, 8, 5, 19, 15, 13, 2, 6, 10, 18, 1, 11, 7, 3, 14, 9, 16, 12}
+Value of target function: 121.0
+Coincidence with optimality solution: 58.67768595041322%
+-----------------------------------------------------------------------
+
+Test № 2 - ITER = 300
+Time of work:65
+Results
+Approximate solution: {10, 5, 11, 17, 15, 19, 1, 18, 3, 9, 4, 7, 13, 0, 8, 14, 16, 12, 2, 6}
+Value of target function: 113.0
+Coincidence with optimality solution: 62.83185840707964%
+-----------------------------------------------------------------------
+
+Test № 3 - ITER = 500
+Time of work:110
+Results
+Approximate solution: {3, 13, 0, 6, 10, 2, 4, 19, 12, 11, 8, 15, 7, 17, 9, 1, 14, 16, 18, 5}
+Value of target function: 115.0
+Coincidence with optimality solution: 61.73913043478261%
+-----------------------------------------------------------------------
+
+Test № 4 - ITER = 700
+Time of work:160
+Results
+Approximate solution: {8, 15, 13, 0, 9, 7, 4, 19, 14, 18, 16, 3, 10, 1, 12, 17, 2, 5, 6, 11}
+Value of target function: 113.0
+Coincidence with optimality solution: 62.83185840707964%
+-----------------------------------------------------------------------
+
+Test № 5 - ITER = 1000
+Time of work:224
+Results
+Approximate solution: {15, 8, 13, 0, 14, 1, 18, 10, 7, 3, 19, 4, 2, 6, 16, 11, 17, 12, 9, 5}
+Value of target function: 114.0
+Coincidence with optimality solution: 62.280701754385966%
+-----------------------------------------------------------------------
+
+Test № 6 - ITER = 1500
+Time of work:309
+Results
+Approximate solution: {13, 19, 7, 11, 0, 4, 12, 5, 6, 17, 14, 1, 3, 10, 16, 2, 9, 8, 18, 15}
+Value of target function: 115.0
+Coincidence with optimality solution: 61.73913043478261%
+-----------------------------------------------------------------------
+
+Test № 7 - ITER = 2000
+Time of work:447
+Results
+Approximate solution: {16, 4, 0, 8, 14, 11, 12, 15, 19, 5, 10, 3, 6, 17, 7, 13, 1, 18, 2, 9}
+Value of target function: 107.0
+Coincidence with optimality solution: 66.35514018691589%
+-----------------------------------------------------------------------
+
+Test № 8 - ITER = 3000
+Time of work:625
+Results
+Approximate solution: {14, 18, 4, 6, 2, 7, 12, 15, 10, 1, 3, 17, 19, 13, 0, 5, 16, 11, 9, 8}
+Value of target function: 109.0
+Coincidence with optimality solution: 65.13761467889908%
+-----------------------------------------------------------------------
+
+Test № 9 - ITER = 5000
+Time of work:1303
+Results
+Approximate solution: {9, 13, 0, 4, 7, 11, 3, 18, 12, 1, 5, 17, 2, 6, 10, 16, 19, 8, 14, 15}
+Value of target function: 112.0
+Coincidence with optimality solution: 63.392857142857146%
+-----------------------------------------------------------------------
+
+Test № 10 - ITER = 10000
+Time of work:3004
+Results
+Approximate solution: {7, 3, 9, 6, 2, 13, 0, 1, 15, 19, 12, 17, 10, 18, 5, 4, 8, 14, 16, 11}
+Value of target function: 104.0
+Coincidence with optimality solution: 68.26923076923077%
+-----------------------------------------------------------------------
+
+************************************************************************************************
+
+Iteration № 8
+Test № 1 - ITER = 100
+Time of work:23
+Results
+Approximate solution: {8, 7, 3, 10, 6, 1, 0, 14, 12, 15, 18, 16, 19, 17, 11, 13, 9, 2, 4, 5}
+Value of target function: 124.0
+Coincidence with optimality solution: 57.25806451612903%
+-----------------------------------------------------------------------
+
+Test № 2 - ITER = 300
+Time of work:89
+Results
+Approximate solution: {18, 2, 4, 9, 6, 17, 11, 12, 3, 10, 16, 0, 5, 7, 14, 15, 8, 13, 19, 1}
+Value of target function: 119.0
+Coincidence with optimality solution: 59.66386554621849%
+-----------------------------------------------------------------------
+
+Test № 3 - ITER = 500
+Time of work:148
+Results
+Approximate solution: {12, 3, 18, 5, 9, 11, 1, 17, 10, 2, 6, 15, 4, 7, 19, 13, 0, 8, 14, 16}
+Value of target function: 116.0
+Coincidence with optimality solution: 61.206896551724135%
+-----------------------------------------------------------------------
+
+Test № 4 - ITER = 700
+Time of work:145
+Results
+Approximate solution: {15, 7, 3, 17, 11, 12, 5, 1, 18, 16, 4, 6, 9, 19, 8, 14, 10, 13, 0, 2}
+Value of target function: 116.0
+Coincidence with optimality solution: 61.206896551724135%
+-----------------------------------------------------------------------
+
+Test № 5 - ITER = 1000
+Time of work:227
+Results
+Approximate solution: {4, 7, 19, 1, 11, 18, 12, 15, 8, 5, 3, 10, 2, 17, 14, 16, 9, 13, 0, 6}
+Value of target function: 118.0
+Coincidence with optimality solution: 60.16949152542373%
+-----------------------------------------------------------------------
+
+Test № 6 - ITER = 1500
+Time of work:338
+Results
+Approximate solution: {7, 3, 4, 5, 14, 18, 6, 2, 9, 0, 8, 1, 16, 12, 17, 11, 13, 19, 15, 10}
+Value of target function: 114.0
+Coincidence with optimality solution: 62.280701754385966%
+-----------------------------------------------------------------------
+
+Test № 7 - ITER = 2000
+Time of work:493
+Results
+Approximate solution: {3, 6, 2, 7, 1, 12, 0, 5, 11, 15, 19, 9, 8, 14, 16, 4, 17, 18, 13, 10}
+Value of target function: 115.0
+Coincidence with optimality solution: 61.73913043478261%
+-----------------------------------------------------------------------
+
+Test № 8 - ITER = 3000
+Time of work:698
+Results
+Approximate solution: {17, 10, 13, 0, 5, 8, 18, 11, 1, 6, 2, 16, 12, 15, 19, 9, 14, 4, 7, 3}
+Value of target function: 106.0
+Coincidence with optimality solution: 66.98113207547169%
+-----------------------------------------------------------------------
+
+Test № 9 - ITER = 5000
+Time of work:1320
+Results
+Approximate solution: {10, 7, 12, 0, 14, 16, 1, 6, 2, 13, 9, 11, 15, 19, 8, 18, 5, 3, 4, 17}
+Value of target function: 112.0
+Coincidence with optimality solution: 63.392857142857146%
+-----------------------------------------------------------------------
+
+Test № 10 - ITER = 10000
+Time of work:2971
+Results
+Approximate solution: {13, 0, 4, 8, 6, 2, 5, 7, 1, 18, 10, 3, 9, 14, 16, 11, 12, 17, 15, 19}
+Value of target function: 106.0
+Coincidence with optimality solution: 66.98113207547169%
+-----------------------------------------------------------------------
+
+************************************************************************************************
+
+Iteration № 9
+Test № 1 - ITER = 100
+Time of work:30
+Results
+Approximate solution: {17, 14, 3, 10, 7, 8, 9, 16, 5, 2, 15, 19, 13, 0, 4, 11, 1, 18, 12, 6}
+Value of target function: 120.0
+Coincidence with optimality solution: 59.166666666666664%
+-----------------------------------------------------------------------
+
+Test № 2 - ITER = 300
+Time of work:85
+Results
+Approximate solution: {13, 0, 5, 16, 6, 10, 3, 9, 15, 19, 8, 14, 18, 1, 12, 2, 17, 4, 7, 11}
+Value of target function: 109.0
+Coincidence with optimality solution: 65.13761467889908%
+-----------------------------------------------------------------------
+
+Test № 3 - ITER = 500
+Time of work:120
+Results
+Approximate solution: {7, 1, 0, 8, 18, 5, 2, 4, 6, 17, 10, 3, 12, 14, 16, 15, 13, 19, 11, 9}
+Value of target function: 110.0
+Coincidence with optimality solution: 64.54545454545455%
+-----------------------------------------------------------------------
+
+Test № 4 - ITER = 700
+Time of work:154
+Results
+Approximate solution: {5, 2, 12, 17, 1, 14, 11, 7, 3, 9, 6, 16, 13, 19, 8, 15, 18, 10, 0, 4}
+Value of target function: 116.0
+Coincidence with optimality solution: 61.206896551724135%
+-----------------------------------------------------------------------
+
+Test № 5 - ITER = 1000
+Time of work:216
+Results
+Approximate solution: {16, 11, 12, 17, 4, 5, 6, 2, 18, 15, 8, 19, 9, 1, 13, 10, 7, 3, 0, 14}
+Value of target function: 116.0
+Coincidence with optimality solution: 61.206896551724135%
+-----------------------------------------------------------------------
+
+Test № 6 - ITER = 1500
+Time of work:325
+Results
+Approximate solution: {13, 19, 2, 7, 11, 15, 14, 16, 9, 0, 8, 18, 12, 17, 6, 4, 3, 10, 1, 5}
+Value of target function: 115.0
+Coincidence with optimality solution: 61.73913043478261%
+-----------------------------------------------------------------------
+
+Test № 7 - ITER = 2000
+Time of work:486
+Results
+Approximate solution: {19, 9, 8, 14, 16, 18, 12, 2, 6, 17, 11, 0, 1, 3, 10, 15, 5, 7, 4, 13}
+Value of target function: 112.0
+Coincidence with optimality solution: 63.392857142857146%
+-----------------------------------------------------------------------
+
+Test № 8 - ITER = 3000
+Time of work:663
+Results
+Approximate solution: {1, 13, 0, 6, 17, 4, 7, 8, 15, 19, 11, 12, 3, 10, 5, 9, 2, 14, 16, 18}
+Value of target function: 106.0
+Coincidence with optimality solution: 66.98113207547169%
+-----------------------------------------------------------------------
+
+Test № 9 - ITER = 5000
+Time of work:1109
+Results
+Approximate solution: {4, 7, 11, 13, 10, 1, 12, 3, 19, 9, 16, 15, 8, 14, 2, 6, 17, 18, 5, 0}
+Value of target function: 106.0
+Coincidence with optimality solution: 66.98113207547169%
+-----------------------------------------------------------------------
+
+Test № 10 - ITER = 10000
+Time of work:2553
+Results
+Approximate solution: {5, 1, 16, 3, 4, 6, 19, 8, 14, 11, 9, 7, 13, 0, 2, 15, 18, 12, 17, 10}
+Value of target function: 106.0
+Coincidence with optimality solution: 66.98113207547169%
+-----------------------------------------------------------------------
+
+************************************************************************************************
+
+Iteration № 10
+Test № 1 - ITER = 100
+Time of work:20
+Results
+Approximate solution: {17, 15, 10, 7, 9, 5, 16, 1, 11, 3, 13, 0, 19, 8, 14, 12, 18, 6, 2, 4}
+Value of target function: 124.0
+Coincidence with optimality solution: 57.25806451612903%
+-----------------------------------------------------------------------
+
+Test № 2 - ITER = 300
+Time of work:63
+Results
+Approximate solution: {17, 10, 1, 18, 2, 11, 7, 3, 5, 9, 8, 6, 16, 13, 19, 15, 4, 0, 14, 12}
+Value of target function: 120.0
+Coincidence with optimality solution: 59.166666666666664%
+-----------------------------------------------------------------------
+
+Test № 3 - ITER = 500
+Time of work:109
+Results
+Approximate solution: {12, 15, 19, 5, 8, 14, 11, 6, 7, 17, 4, 3, 9, 10, 2, 13, 0, 18, 16, 1}
+Value of target function: 115.0
+Coincidence with optimality solution: 61.73913043478261%
+-----------------------------------------------------------------------
+
+Test № 4 - ITER = 700
+Time of work:169
+Results
+Approximate solution: {17, 4, 19, 0, 6, 2, 15, 8, 12, 11, 13, 18, 5, 10, 1, 9, 14, 16, 7, 3}
+Value of target function: 111.0
+Coincidence with optimality solution: 63.96396396396396%
+-----------------------------------------------------------------------
+
+Test № 5 - ITER = 1000
+Time of work:197
+Results
+Approximate solution: {3, 4, 5, 14, 1, 17, 13, 0, 2, 10, 19, 8, 12, 15, 6, 16, 18, 11, 9, 7}
+Value of target function: 118.0
+Coincidence with optimality solution: 60.16949152542373%
+-----------------------------------------------------------------------
+
+Test № 6 - ITER = 1500
+Time of work:360
+Results
+Approximate solution: {3, 10, 6, 15, 13, 0, 4, 18, 16, 2, 7, 19, 5, 9, 1, 17, 11, 8, 14, 12}
+Value of target function: 112.0
+Coincidence with optimality solution: 63.392857142857146%
+-----------------------------------------------------------------------
+
+Test № 7 - ITER = 2000
+Time of work:476
+Results
+Approximate solution: {18, 16, 5, 14, 1, 19, 13, 0, 4, 6, 10, 8, 12, 15, 9, 7, 3, 17, 2, 11}
+Value of target function: 112.0
+Coincidence with optimality solution: 63.392857142857146%
+-----------------------------------------------------------------------
+
+Test № 8 - ITER = 3000
+Time of work:622
+Results
+Approximate solution: {3, 17, 14, 12, 15, 13, 11, 0, 6, 10, 2, 7, 8, 18, 1, 5, 19, 9, 4, 16}
+Value of target function: 111.0
+Coincidence with optimality solution: 63.96396396396396%
+-----------------------------------------------------------------------
+
+Test № 9 - ITER = 5000
+Time of work:1384
+Results
+Approximate solution: {8, 18, 16, 2, 13, 0, 4, 6, 10, 1, 14, 15, 5, 9, 19, 12, 3, 17, 7, 11}
+Value of target function: 110.0
+Coincidence with optimality solution: 64.54545454545455%
+-----------------------------------------------------------------------
+
+Test № 10 - ITER = 10000
+Time of work:2894
+Results
+Approximate solution: {8, 14, 0, 4, 3, 10, 2, 13, 19, 9, 11, 1, 5, 6, 17, 18, 16, 12, 15, 7}
+Value of target function: 103.0
+Coincidence with optimality solution: 68.93203883495146%
+-----------------------------------------------------------------------
+
+************************************************************************************************
+
+Average results:
+ITER = 100
+	Average time: 36
+	Average result: 119.2
+	Average coincidence with optimality solution: 59.56375838926174
+
+ITER = 300
+	Average time: 83
+	Average result: 115.3
+	Average coincidence with optimality solution: 61.57849089332177
+
+ITER = 500
+	Average time: 166
+	Average result: 114.3
+	Average coincidence with optimality solution: 62.117235345581804
+
+ITER = 700
+	Average time: 194
+	Average result: 113.2
+	Average coincidence with optimality solution: 62.7208480565371
+
+ITER = 1000
+	Average time: 252
+	Average result: 114.3
+	Average coincidence with optimality solution: 62.117235345581804
+
+ITER = 1500
+	Average time: 357
+	Average result: 114.0
+	Average coincidence with optimality solution: 62.280701754385966
+
+ITER = 2000
+	Average time: 550
+	Average result: 112.1
+	Average coincidence with optimality solution: 63.336306868867084
+
+ITER = 3000
+	Average time: 722
+	Average result: 108.5
+	Average coincidence with optimality solution: 65.43778801843318
+
+ITER = 5000
+	Average time: 1359
+	Average result: 109.4
+	Average coincidence with optimality solution: 64.89945155393053
+
+ITER = 10000
+	Average time: 3525
+	Average result: 106.4
+	Average coincidence with optimality solution: 66.72932330827068
+
